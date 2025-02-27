@@ -1,5 +1,5 @@
-let queryUrl = `https://viragbolt-backend.onrender.com/api/flowers`
-let categoryUrl = `https://viragbolt-backend.onrender.com/api/categories`
+let queryUrl = `https://raw.githubusercontent.com/mkatay/projects_json/refs/heads/main/flowers`
+let categoryUrl = `https://raw.githubusercontent.com/mkatay/projects_json/refs/heads/main/flowers_categories`
 let dataa
 let szamolo = 1
 let nev 
